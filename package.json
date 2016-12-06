@@ -1,0 +1,14 @@
+{
+    "name": "SimpleChat",
+    "description" : "real time chat web application",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies" : {
+        "express": "4.14.x" ,
+        "socket.io": "1.7.x"
+    },
+    "engines": {
+        "node": "3.10.x",
+        "npm": "4.0.x"
+    }
+}
